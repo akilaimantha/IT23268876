@@ -27,7 +27,7 @@ Before running the tests, ensure you have the following installed:
 If you have the project as a zip file, extract it. If it's a Git repository:
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/akilaimantha/IT23268876.git>
 cd <project-directory>
 ```
 
