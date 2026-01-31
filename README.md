@@ -28,7 +28,7 @@ If you have the project as a zip file, extract it. If it's a Git repository:
 
 ```bash
 git clone <https://github.com/akilaimantha/IT23268876.git>
-cd <project-directory>
+cd <C:\Users\USER\Documents\GitHub\IT23268876>
 ```
 
 ### Step 2: Install Dependencies
